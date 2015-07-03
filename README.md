@@ -1,2 +1,2 @@
 # servant-example
-private test of haskell-servants capabilities 
+http api example with servant and opaleye
